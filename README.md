@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hello, I'm Adeela Saleem 👋
 
-<!--
-**AdeelaSaleem/AdeelaSaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student with a keen interest in web frontend development. Currently, I'm learning and working with Java, Python, React, and MySQL.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Pursuing a degree in Computer Science
+- 💻 Frontend Web Developer
+- 📧 [adeela88sal@gmail.com]
+
+## Skills
+
+- 💻 HTML, CSS, JavaScript
+- 💻 Java
+- 💻 Python
+- 💻 React
+- 💻 MySQL
+
+
+## Learning
+
+- 📘 Currently learning React
+- 📘 Currently learning MySQL
+
+## Connect with Me
+
+- ⚡ [LinkedIn](https://www.linkedin.com/in/adeela-saleem-a89414277/)
+
+## Languages and Tools
+
+- **Frontend:**
+  - HTML5
+  - CSS3 (including Bootstrap and Tailwind CSS)
+  - JavaScript (React, Redux)
+  
+- **Backend:**
+  - Node.js (Express)
+  - MongoDB
+  
+- **Mobile App Development:**
+  - React Native
+  
+- **Database:**
+  - MongoDB
+  
+- **Version Control:**
+  - Git
+  
+- **Other Tools:**
+  - Firebase
+  - Postman
+  - Illustrator
+
