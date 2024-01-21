@@ -20,8 +20,8 @@ I'm a computer science student with a keen interest in web frontend development.
 
 ## Learning
 
-- 📘 Currently learning React
-- 📘 Currently learning MySQL
+- 📘 Currently learning React, MySqL
+
 
 ## Connect with Me
 
@@ -32,7 +32,7 @@ I'm a computer science student with a keen interest in web frontend development.
 - **Frontend:**
   - HTML5
   - CSS3 (including Bootstrap and Tailwind CSS)
-  - JavaScript (React, Redux)
+  - JavaScript (React)
   
 - **Backend:**
   - Node.js (Express)
@@ -46,9 +46,10 @@ I'm a computer science student with a keen interest in web frontend development.
   
 - **Version Control:**
   - Git
+  - GitHub
   
 - **Other Tools:**
-  - Firebase
-  - Postman
-  - Illustrator
+  - Figma
+  - Adobe photoshop
+  - Adobe Illustrator
 
