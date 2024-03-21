@@ -55,4 +55,5 @@ I'm a computer science student with a keen interest in web frontend development.
   - Figma
   - Adobe photoshop
   - Adobe Illustrator
+  - Canva
 
