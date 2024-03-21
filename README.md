@@ -21,6 +21,9 @@ I'm a computer science student with a keen interest in web frontend development.
 ## Learning
 
 - 📘 Currently learning React, MySqL
+- Data Structures and Algorithms (DSA) Projects
+
+🌟 Excited to dive into the world of Data Structures and Algorithms (DSA)! Currently working on several projects to enhance my understanding and problem-solving skills:
 
 
 ## Connect with Me
