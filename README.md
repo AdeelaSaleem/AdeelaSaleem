@@ -41,9 +41,7 @@ I'm a computer science student with a keen interest in web frontend development.
   - Node.js (Express)
   - MongoDB
   
-- **Mobile App Development:**
-  - React Native
-  
+
 - **Database:**
   - MongoDB
   
