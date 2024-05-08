@@ -34,8 +34,8 @@ I'm a computer science student with a keen interest in web frontend development.
 
 - **Frontend:**
   - HTML5
-  - CSS3 (including Bootstrap and Tailwind CSS)
-  - JavaScript (React)
+  - CSS3 (including Bootstrap & Tailwind CSS)
+  - JavaScript 
   
 - **Backend:**
   - Node.js (Express)
